@@ -1,0 +1,12 @@
+[package]
+name = "isa-pow-finder"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+base16ct = "0.2.0"
+eth-encode-packed = "0.1.0"
+sha3 = "0.10.8"
+
